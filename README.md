@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hey there,
+
+I'm Victor. A beginner coder trying to make some cool stuff...
